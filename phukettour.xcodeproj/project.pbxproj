@@ -15,6 +15,7 @@
 		EB5C0A8A244C567E001D40B8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5C0A89244C567E001D40B8 /* main.m */; };
 		EB5C0A94244C567E001D40B8 /* phukettourTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5C0A93244C567E001D40B8 /* phukettourTests.m */; };
 		EB5C0A9F244C567E001D40B8 /* phukettourUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = EB5C0A9E244C567E001D40B8 /* phukettourUITests.m */; };
+		EB5C0AAD244C570A001D40B8 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = EB5C0AAC244C570A001D40B8 /* ViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		EB5C0A9A244C567E001D40B8 /* phukettourUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = phukettourUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB5C0A9E244C567E001D40B8 /* phukettourUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = phukettourUITests.m; sourceTree = "<group>"; };
 		EB5C0AA0244C567E001D40B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EB5C0AAC244C570A001D40B8 /* ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 		EB5C0A79244C567D001D40B8 /* phukettour */ = {
 			isa = PBXGroup;
 			children = (
+				EB5C0AAC244C570A001D40B8 /* ViewController.xib */,
 				EB5C0A7A244C567D001D40B8 /* AppDelegate.h */,
 				EB5C0A7B244C567D001D40B8 /* AppDelegate.m */,
 				EB5C0A7D244C567D001D40B8 /* ViewController.h */,
@@ -237,6 +240,7 @@
 			files = (
 				EB5C0A87244C567E001D40B8 /* LaunchScreen.storyboard in Resources */,
 				EB5C0A84244C567E001D40B8 /* Assets.xcassets in Resources */,
+				EB5C0AAD244C570A001D40B8 /* ViewController.xib in Resources */,
 				EB5C0A82244C567D001D40B8 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

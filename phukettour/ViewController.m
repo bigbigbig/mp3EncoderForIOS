@@ -19,5 +19,8 @@
     // Do any additional setup after loading the view.
 }
 
+- (IBAction)startEncode:(id)sender {
+    NSLog(@"startEncode");
+}
 
 @end
